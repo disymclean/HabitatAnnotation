@@ -1,5 +1,5 @@
 # HabitatAnnotation
-Habitat annotation of horizontally facing benthic imagery from baited and unbaited remote stereo-or-mono-video deployments and diver swum stereo-video transects. With an applied example using the TransectMeasure software from www.seagis.com.au
+Habitat annotation of benthic imagery from horizontally facing baited and unbaited remote stereo-or mono-video deployments and diver swum stereo-video transects. With an applied example using the TransectMeasure software from www.seagis.com.au
 
 <HR>
 </HR>
@@ -27,7 +27,7 @@ Parts of this annotation scheme have also been trailed in two further published 
 <HR>
 </HR>
 
-To simplify the annotation process and still represent multiple scales of habitat in horizontaly facing imagery, we have gridded the images in 5 x 4 cells.
+To simplify the annotation process and still represent multiple scales of habitat in horizontally facing imagery, we have gridded the images into 5 x 4 cells.
 
 Protocol: each of the cells is annotated for dominant Benthic Composition, Field of View and Relief.
 
@@ -42,7 +42,7 @@ Protocol: each of the cells is annotated for dominant Benthic Composition, Field
 
 #<a name="method"></a>Method
 
-The annotation schema is made up of nested Benthic Composition classes taken from the CATAMI schema and a Field of View and Relief class that are useful for characterising horizonatlly facing imagery.
+The annotation schema is made up of nested Benthic Composition classes taken from the CATAMI schema and a Field of View and Relief class that are useful for characterising horizontally facing imagery.
 BROAD>MORPHOLOGY>TYPE/FieldOfView/Relief
 
 For detailed information on the particular taxanomic levels within the BROAD>MORPHOLOGY>TYPE classifications provided in this annotation schema, please consult the CATAMI visual guide within this repository.
@@ -64,7 +64,7 @@ Definition of FoV options:
 <b>Open:</b> BRUV landed upright and level on the substrate and there is an adequate amount of habitat available for classification.
 
 
-The Relief class uses a 0-5 quatification of relief <sup>2</sup> and includes and "Unknown" level to account for cells with limited visibility.
+The Relief class uses a 0-5 quantification of relief <sup>2</sup> and includes and "Unknown" level to account for cells with limited visibility.
 
 <i>When the “BROAD” is “Open Water”, “Relief” should be classified as “Unknown”.</i>
 
