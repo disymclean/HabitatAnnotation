@@ -97,9 +97,9 @@ iii.	Select the most dominant habitat from the “BROAD” dropdown (includes be
 **Accounts for parts of the image that are not benthos or substrate to calculate % coverage by habitat type. 
 ***Indistinguishable habitat when visibility is poor.
 
-iii.	Continue to populate each dropdown (where possible) after “BROAD” (i.e. “MORPHOLOGY” > “TYPE” > “FieldOfView” > “Relief”). The “MORPHOLOGY” and “TYPE” drop down options will change depending on which “BROAD” option is chosen (e.g. dropdown levels are only provided for “FieldOfView” and “Relief” when “Open Water” is selected). Select “Clear” to reset the dropdowns for all of the categories.
+iv.	Continue to populate each dropdown (where possible) after “BROAD” (i.e. “MORPHOLOGY” > “TYPE” > “FieldOfView” > “Relief”). The “MORPHOLOGY” and “TYPE” drop down options will change depending on which “BROAD” option is chosen (e.g. dropdown levels are only provided for “FieldOfView” and “Relief” when “Open Water” is selected). Select “Clear” to reset the dropdowns for all of the categories.
 
-iv.	“FieldOfView” (FoV) depends on how the BRUV is positioned when it lands on the substrate and is usually kept the same for every 'rectangle' in an image. The exception occurs when benthos or substrate obscurs a 'rectangle' within ~1m of the camera (typically the length of the diode arm on a BRUV). In this instance the "Limited" option must be selected for the obscurred 'rectangles' only.
+v.	“FieldOfView” (FoV) depends on how the BRUV is positioned when it lands on the substrate and is usually kept the same for every 'rectangle' in an image. The exception occurs when benthos or substrate obscurs a 'rectangle' within ~1m of the camera (typically the length of the diode arm on a BRUV). In this instance the "Limited" option must be selected for the obscurred 'rectangles' only.
 
 Definition of FoV options:
 
